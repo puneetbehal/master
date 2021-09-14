@@ -7,6 +7,7 @@ import { OrdersComponent } from './component/orders/orders.component';
 import { ProductsComponent } from './component/products/products.component';
 import { UsersComponent } from './component/users/users.component';
 import { UserSignUpComponent } from './component/users/user-sign-up/user-sign-up.component';
+//testing all
 
 const routes: Routes = [
 
